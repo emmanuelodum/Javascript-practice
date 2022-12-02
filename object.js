@@ -12,5 +12,6 @@ let car = {
 
 car.printDescription();
 console.log(car.year + " price: 5000 ");
-console.log(car["year"]);
-console.log(car[1]);
+// console.log(car["year"]);
+// console.log(car[1]);
+
