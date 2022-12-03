@@ -15,3 +15,6 @@ console.log(car.year + " price: 5000 ");
 // console.log(car["year"]);
 // console.log(car[1]);
 
+var anotherCar = {};
+anotherCar.enzo = 'bob';
+console.log(car.enzo);
