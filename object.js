@@ -15,6 +15,11 @@ console.log(car.year + " price: 5000 ");
 console.log(car["year"]);
 console.log(car[1]);
 
-var anotherCar = {};
-anotherCar.enzo = 'byke';
-console.log(anotherCar.enzo);
+// var anotherCar = {};
+// anotherCar.enzo = 'byke';
+// console.log(anotherCar.enzo);
+
+var a = {
+    myProperty: { b: 'hi' }
+};
+console.log(a.myProperty.b);
