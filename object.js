@@ -23,3 +23,14 @@ var a = {
     myProperty: { b: 'hi' }
 };
 console.log(a.myProperty.b);
+
+var c = {
+    myProperty: [
+        { d: 'this' },
+        { e: 'can' },
+        { f: 'can' },
+        { g: 'can' }
+    ]
+};
+
+console.log(c.myProperty);
