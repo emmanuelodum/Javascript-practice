@@ -24,13 +24,19 @@ var a = {
 };
 console.log(a.myProperty.b);
 
-var c = {
-    myProperty: [
-        { d: 'this' },
-        { e: 'can' },
-        { f: 'can' },
-        { g: 'can' }
-    ]
-};
+// var c = {
+//     myProperty: [
+//         { d: 'this' },
+//         { e: 'can' },
+//         { f: 'can' },
+//         { g: 'can' }
+//     ]
+// };
 
-console.log(c.myProperty);
+// console.log(c.myProperty);
+
+let carLot = [
+    { year: 2017, make: 'Toyota', model: '4runner' },
+    { year: 2015, make: 'BMW', model: '528i' },
+    { year: 1982, make: 'Buick', model: 'Skylark' },
+];
