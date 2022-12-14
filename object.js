@@ -39,4 +39,5 @@ let carLot = [
     { year: 2017, make: 'Toyota', model: '4runner' },
     { year: 2015, make: 'BMW', model: '528i' },
     { year: 1982, make: 'Buick', model: 'Skylark' },
+    { year: 1982, make: 'Buick', model: 'Skylark' },
 ];
