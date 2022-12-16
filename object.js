@@ -41,3 +41,8 @@ let carLot = [
     { year: 1982, make: 'Buick', model: 'Skylark' },
     { year: 1982, make: 'Buick', model: 'Skylark' },
 ];
+
+console.log( true && false);
+console.log(false && true);
+console.log(true || true);
+
