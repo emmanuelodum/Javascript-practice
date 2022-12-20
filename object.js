@@ -46,3 +46,10 @@ console.log( true && false);
 console.log(false && true);
 console.log(true || true);
 
+let contacts = {
+    customers: [
+        { firstName: 'Emma', lastName: 'Odum', phoneNumbers: ['(123) 4789-458'] },
+    ],
+};
+
+console.log(contacts);

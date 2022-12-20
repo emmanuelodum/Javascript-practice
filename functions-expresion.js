@@ -13,8 +13,13 @@
 
 // timeout();
 
-(function () {
-    console.log('Immediately Invoked Function Expression (IIFE)')
-})();
+// (function () {
+//     console.log('Immediately Invoked Function Expression (IIFE)')
+// })();
 
+function add(firstParameter, secondParameter, thirdParameter) {
+    console.log(firstParameter + secondParameter * (thirdParameter));
+}
+
+add(1, 2, 5, 6);
 
