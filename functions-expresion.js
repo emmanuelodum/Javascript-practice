@@ -99,7 +99,6 @@ function sayWoof(dogSound) {
 
 console.log(sayWoof("WOOF"));
 
-<<<<<<< HEAD
 
 function sayWoof(dogSound) {
   let msg = "Dog goes " + dogSound + "!";
@@ -108,5 +107,3 @@ function sayWoof(dogSound) {
 
 console.log(sayWoof("WOOF"));
 
-=======
->>>>>>> 17d358ec08d9bf497b34ae155c1b9f2a613b100f
