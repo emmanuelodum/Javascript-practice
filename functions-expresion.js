@@ -107,3 +107,9 @@ function sayWoof(dogSound) {
 
 console.log(sayWoof("WOOF"));
 
+function whisper(str) {
+  // your code here...
+}
+
+console.log(whisper("Hey Buddy")); // => "...hey buddy..."
+console.log(whisper("YEA! that was fun")); // => "...yea! that was fun..."
