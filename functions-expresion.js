@@ -170,3 +170,10 @@ function plusFive(num) {
 console.log(plusFive(10));  // => 15
 console.log(plusFive(2));   // => 7
 console.log(plusFive(-8));  // => -3
+
+function plusFive(num) {
+ 
+  let plusFive = 10 / 2;
+  return plusFive;
+}
+console.log(plusFive(5));
