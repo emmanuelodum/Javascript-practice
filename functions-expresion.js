@@ -177,3 +177,17 @@ function plusFive(num) {
   return plusFive;
 }
 console.log(plusFive(5));
+
+function plusFive(num) {
+ 
+  let plusFive = 10 / 2;
+  return plusFive;
+}
+console.log(plusFive(5));
+
+function plusFive(num) {
+ 
+  let plusFive = 10 / 2;
+  return plusFive;
+}
+console.log(plusFive(5));
