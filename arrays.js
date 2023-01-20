@@ -16,3 +16,8 @@ a.pop();
 a.pop();
 a.push(50);
 console.log(a)
+
+a.pop();
+a.pop();
+a.push(50);
+console.log(a)
