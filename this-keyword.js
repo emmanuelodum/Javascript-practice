@@ -34,7 +34,7 @@
 //     return this;
 // }
 
-// console.log(second() === global);
-// console.log(second() === undefined);
+console.log(second() === global);
+console.log(second() === undefined);
 
 
